@@ -1,0 +1,17 @@
+{
+  "name": "vikey_calc.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "add",
+    "sub",
+    "mul",
+    "div"
+  ],
+  "author": "venkateshwarreddy",
+  "license": "ISC"
+}
